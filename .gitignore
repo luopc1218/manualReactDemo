@@ -1,8 +1,0 @@
-# dependence
-node_modules/
-
-# production
-dist/
-
-# editor
-.vscode
