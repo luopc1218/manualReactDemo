@@ -1,9 +1,8 @@
 # dependence
-node_modules
+node_modules/
 
 # production
-dist
+dist/
 
 # editor
 .vscode
-node_modules
