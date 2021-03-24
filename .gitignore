@@ -1,0 +1,9 @@
+.DS_Store
+# dependence
+node_modules/
+
+# production
+dist/
+
+# editor
+.vscode
